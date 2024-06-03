@@ -23,7 +23,7 @@ prompt=ChatPromptTemplate.from_messages(
 
 ## streamlit framework
 
-st.title('Krishna - openAIL LLM')
+st.title('Krishna - openAI LLM')
 input_text=st.text_input("Search the topic u want")
 
 # openAI LLm 
